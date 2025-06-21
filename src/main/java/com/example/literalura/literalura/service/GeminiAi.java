@@ -5,7 +5,7 @@ import com.google.genai.types.GenerateContentResponse;
 
 public class GeminiAi {
     private static final String MODELO = "gemini-2.0-flash-lite";
-    private static final String API = "AIzaSyCKNgf1rM6PFyIUsyGVSsijonml1j8U7rA";
+    private static final String API = "INTRODUCETU API SIQUIERES DISFRUTAR DE ESTA FUNCION";
 
     private static String conexion(Client client, String prompt){
         try{
